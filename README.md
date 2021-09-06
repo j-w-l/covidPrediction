@@ -1,2 +1,2 @@
-# covidPrediction
-Utilizes an age-stratified SIRV model to predict COVID incidence and optimal vaccine allocation.
+# COVID Predictions
+Utilizes an age-stratified SIRV model to predict COVID incidence and optimal vaccine allocation. All models and simulations were coded using MATLAB, and are contained in [scripts](https://github.com/j-w-l/covidPrediction/tree/main/scripts). They were tested on publicly accessible data, the processed versions of which can be found in [data](https://github.com/j-w-l/covidPrediction/tree/main/data). A final research paper presenting my findings is located in [paper](https://github.com/j-w-l/covidPrediction/tree/main/paper).
